@@ -1,0 +1,3231 @@
+[
+    {
+        "depth" : 6,
+        "dive" : [
+            {
+              "duration": 15,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "A"
+            },
+            {
+              "duration": 30,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "B"
+            },
+            {
+              "duration": 45,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "C"
+            },
+            {
+              "duration": 75,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "D"
+            },
+            {
+              "duration": 105,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "E"
+            },
+            {
+              "duration": 135,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "F"
+            },
+            {
+              "duration": 180,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "G"
+            },
+            {
+              "duration": 240,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "H"
+            },
+            {
+              "duration": 315,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "I"
+            },
+            {
+              "duration": 360,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "J"
+            }
+        ]
+    },
+    {
+        "depth" : 8,
+        "dive" : [
+            {
+              "duration": 15,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "B"
+            },
+            {
+              "duration": 30,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "C"
+            },
+            {
+              "duration": 45,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "D"
+            },
+            {
+              "duration": 60,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "E"
+            },
+            {
+              "duration": 90,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "F"
+            },
+            {
+              "duration": 105,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "G"
+            },
+            {
+              "duration": 135,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "H"
+            },
+            {
+              "duration": 165,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "I"
+            },
+            {
+              "duration": 195,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "J"
+            },
+            {
+              "duration": 255,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "K"
+            },
+            {
+              "duration": 300,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "L"
+            },
+            {
+              "duration": 360,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "M"
+            }
+        ]
+    },
+    {
+        "depth" : 10,
+        "dive" : [
+            {
+              "duration": 15,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "B"
+            },
+            {
+              "duration": 30,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "C"
+            },
+            {
+              "duration": 45,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "D"
+            },
+            {
+              "duration": 60,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "F"
+            },
+            {
+              "duration": 75,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "G"
+            },
+            {
+              "duration": 105,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "H"
+            },
+            {
+              "duration": 120,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "I"
+            },
+            {
+              "duration": 135,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "J"
+            },
+            {
+              "duration": 165,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "K"
+            },
+            {
+              "duration": 180,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "L"
+            },
+            {
+              "duration": 240,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "M"
+            },
+            {
+              "duration": 255,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "N"
+            },
+            {
+              "duration": 315,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "O"
+            },
+            {
+              "duration": 330,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "P"
+            },
+            {
+              "duration": 360,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 1,
+              "gps": "P"
+            }
+        ]
+    },
+    {
+        "depth" : 12,
+        "dive" : [
+            {
+              "duration": 5,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "A"
+            },
+            {
+              "duration": 15,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "B"
+            },
+            {
+              "duration": 25,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "C"
+            },
+            {
+              "duration": 35,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "D"
+            },
+            {
+              "duration": 45,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "E"
+            },
+            {
+              "duration": 55,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "F"
+            },
+            {
+              "duration": 65,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "G"
+            },
+            {
+              "duration": 80,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "H"
+            },
+            {
+              "duration": 90,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "I"
+            },
+            {
+              "duration": 105,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "J"
+            },
+            {
+              "duration": 120,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "K"
+            },
+            {
+              "duration": 135,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "L"
+            },
+            {
+              "duration": 140,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 2,
+              "gps": "L"
+            },
+            {
+              "duration": 150,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 4,
+              "gps": "M"
+            },
+            {
+              "duration": 160,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 6,
+              "gps": "M"
+            },
+            {
+              "duration": 170,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 7,
+              "gps": "N"
+            },
+            {
+              "duration": 180,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 9,
+              "gps": "N"
+            },
+            {
+              "duration": 190,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 11,
+              "gps": "N"
+            },
+            {
+              "duration": 200,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 13,
+              "gps": "O"
+            },
+            {
+              "duration": 210,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 14,
+              "gps": "O"
+            },
+            {
+              "duration": 220,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 15,
+              "gps": "O"
+            },
+            {
+              "duration": 210,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 16,
+              "gps": "O"
+            },
+            {
+              "duration": 240,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 17,
+              "gps": "O"
+            },
+            {
+              "duration": 250,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 18,
+              "gps": "P"
+            },
+            {
+              "duration": 255,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 19,
+              "gps": "P"
+            },
+            {
+              "duration": 270,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 22,
+              "gps": "P"
+            },
+            {
+              "duration": 285,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 24,
+              "gps": "P"
+            },
+            {
+              "duration": 300,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 26,
+              "gps": "P"
+            },
+            {
+              "duration": 315,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 27,
+              "gps": "*"
+            },
+            {
+              "duration": 330,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 29,
+              "gps": "*"
+            },
+            {
+              "duration": 345,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 31,
+              "gps": "*"
+            },
+            {
+              "duration": 360,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 33,
+              "gps": "*"
+            }
+        ]
+    },
+    {
+        "depth" : 15,
+        "dive" : [
+            {
+              "duration": 5,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "A"
+            },
+            {
+              "duration": 10,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "B"
+            },
+            {
+              "duration": 15,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "C"
+            },
+            {
+              "duration": 20,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "C"
+            },
+            {
+              "duration": 25,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "D"
+            },
+            {
+              "duration": 30,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "E"
+            },
+            {
+              "duration": 35,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "E"
+            },
+            {
+              "duration": 40,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "F"
+            },
+            {
+              "duration": 45,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "G"
+            },
+            {
+              "duration": 50,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "G"
+            },
+            {
+              "duration": 55,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "H"
+            },
+            {
+              "duration": 60,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "H"
+            },
+            {
+              "duration": 65,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "I"
+            },
+            {
+              "duration": 70,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "I"
+            },
+            {
+              "duration": 75,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "J"
+            },
+            {
+              "duration": 80,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 2,
+              "gps": "J"
+            },
+            {
+              "duration": 85,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 4,
+              "gps": "K"
+            },
+            {
+              "duration": 90,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 6,
+              "gps": "K"
+            },
+            {
+              "duration": 95,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 8,
+              "gps": "L"
+            },
+            {
+              "duration": 100,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 11,
+              "gps": "L"
+            },
+            {
+              "duration": 105,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 13,
+              "gps": "L"
+            },
+            {
+              "duration": 110,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 15,
+              "gps": "M"
+            },
+            {
+              "duration": 115,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 17,
+              "gps": "M"
+            },
+            {
+              "duration": 120,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 18,
+              "gps": "M"
+            },
+            {
+              "duration": 130,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 22,
+              "gps": "*"
+            },
+            {
+              "duration": 140,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 25,
+              "gps": "*"
+            },
+            {
+              "duration": 150,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 28,
+              "gps": "*"
+            }
+        ]
+    },
+    {
+        "depth" : 18,
+        "dive" : [
+            {
+              "duration": 5,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "B"
+            },
+            {
+              "duration": 10,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "B"
+            },
+            {
+              "duration": 15,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "C"
+            },
+            {
+              "duration": 20,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "D"
+            },
+            {
+              "duration": 25,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "E"
+            },
+            {
+              "duration": 30,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "F"
+            },
+            {
+              "duration": 35,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "F"
+            },
+            {
+              "duration": 40,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "G"
+            },
+            {
+              "duration": 45,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "H"
+            },
+            {
+              "duration": 50,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "H"
+            },
+            {
+              "duration": 55,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 1,
+              "gps": "I"
+            },
+            {
+              "duration": 60,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 5,
+              "gps": "J"
+            },
+            {
+              "duration": 65,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 8,
+              "gps": "J"
+            },
+            {
+              "duration": 70,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 11,
+              "gps": "K"
+            },
+            {
+              "duration": 75,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 14,
+              "gps": "K"
+            },
+            {
+              "duration": 80,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 17,
+              "gps": "L"
+            },
+            {
+              "duration": 85,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 21,
+              "gps": "L"
+            },
+            {
+              "duration": 90,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 23,
+              "gps": "M"
+            },
+            {
+              "duration": 95,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 26,
+              "gps": "M"
+            },
+            {
+              "duration": 100,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 28,
+              "gps": "M"
+            },
+            {
+              "duration": 105,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 31,
+              "gps": "N"
+            },
+            {
+              "duration": 110,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 34,
+              "gps": "N"
+            },
+            {
+              "duration": 115,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 36,
+              "gps": "N"
+            },
+            {
+              "duration": 120,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 28,
+              "gps": "O"
+            },
+            {
+              "duration": 130,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 42,
+              "gps": "*"
+            },
+            {
+              "duration": 140,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 46,
+              "gps": "*"
+            },
+            {
+              "duration": 150,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 38,
+              "gps": "*"
+            }
+        ]
+    },
+    {
+        "depth" : 20,
+        "dive" : [
+            {
+              "duration": 5,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "B"
+            },
+            {
+              "duration": 10,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "B"
+            },
+            {
+              "duration": 15,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "D"
+            },
+            {
+              "duration": 20,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "D"
+            },
+            {
+              "duration": 25,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "E"
+            },
+            {
+              "duration": 30,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "F"
+            },
+            {
+              "duration": 35,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "G"
+            },
+            {
+              "duration": 40,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "H"
+            },
+            {
+              "duration": 45,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 1,
+              "gps": "I"
+            },
+            {
+              "duration": 50,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 4,
+              "gps": "I"
+            },
+            {
+              "duration": 55,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 9,
+              "gps": "J"
+            },
+            {
+              "duration": 60,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 13,
+              "gps": "K"
+            },
+            {
+              "duration": 65,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 16,
+              "gps": "K"
+            },
+            {
+              "duration": 70,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 20,
+              "gps": "L"
+            },
+            {
+              "duration": 75,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 24,
+              "gps": "L"
+            },
+            {
+              "duration": 80,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 27,
+              "gps": "M"
+            },
+            {
+              "duration": 85,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 30,
+              "gps": "M"
+            },
+            {
+              "duration": 90,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 34,
+              "gps": "M"
+            },
+            {
+              "duration": 95,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 37,
+              "gps": "*"
+            },
+            {
+              "duration": 100,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 40,
+              "gps": "*"
+            },
+            {
+              "duration": 105,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 43,
+              "gps": "*"
+            },
+            {
+              "duration": 110,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 45,
+              "gps": "*"
+            }
+        ]
+    },
+    {
+        "depth" : 22,
+        "dive" : [
+            {
+              "duration": 5,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "B"
+            },
+            {
+              "duration": 10,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "C"
+            },
+            {
+              "duration": 15,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "D"
+            },
+            {
+              "duration": 20,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "E"
+            },
+            {
+              "duration": 25,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "F"
+            },
+            {
+              "duration": 30,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "G"
+            },
+            {
+              "duration": 35,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "H"
+            },
+            {
+              "duration": 40,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 2,
+              "gps": "I"
+            },
+            {
+              "duration": 45,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 7,
+              "gps": "I"
+            },
+            {
+              "duration": 50,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 12,
+              "gps": "J"
+            },
+            {
+              "duration": 55,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 16,
+              "gps": "K"
+            },
+            {
+              "duration": 60,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 20,
+              "gps": "K"
+            },
+            {
+              "duration": 65,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 25,
+              "gps": "L"
+            },
+            {
+              "duration": 70,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 29,
+              "gps": "L"
+            },
+            {
+              "duration": 75,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 33,
+              "gps": "M"
+            },
+            {
+              "duration": 80,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 37,
+              "gps": "M"
+            },
+            {
+              "duration": 85,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 41,
+              "gps": "N"
+            },
+            {
+              "duration": 90,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 44,
+              "gps": "N"
+            },
+            {
+              "duration": 95,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 2,
+              "stop3": 46,
+              "gps": "*"
+            },
+            {
+              "duration": 100,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 4,
+              "stop3": 47,
+              "gps": "*"
+            },
+            {
+              "duration": 105,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 5,
+              "stop3": 49,
+              "gps": "*"
+            },
+            {
+              "duration": 110,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 7,
+              "stop3": 51,
+              "gps": "*"
+            }
+        ]
+    },
+    {
+        "depth" : 25,
+        "dive" : [
+            {
+              "duration": 5,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "B"
+            },
+            {
+              "duration": 10,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "C"
+            },
+            {
+              "duration": 15,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "D"
+            },
+            {
+              "duration": 20,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "E"
+            },
+            {
+              "duration": 25,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 1,
+              "gps": "F"
+            },
+            {
+              "duration": 30,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 2,
+              "gps": "H"
+            },
+            {
+              "duration": 35,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 5,
+              "gps": "I"
+            },
+            {
+              "duration": 40,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 10,
+              "gps": "J"
+            },
+            {
+              "duration": 45,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 16,
+              "gps": "J"
+            },
+            {
+              "duration": 50,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 21,
+              "gps": "K"
+            },
+            {
+              "duration": 55,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 27,
+              "gps": "L"
+            },
+            {
+              "duration": 60,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 32,
+              "gps": "L"
+            },
+            {
+              "duration": 65,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 37,
+              "gps": "M"
+            },
+            {
+              "duration": 70,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 1,
+              "stop3": 41,
+              "gps": "M"
+            },
+            {
+              "duration": 75,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 4,
+              "stop3": 43,
+              "gps": "N"
+            },
+            {
+              "duration": 80,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 7,
+              "stop3": 45,
+              "gps": "N"
+            },
+            {
+              "duration": 85,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 9,
+              "stop3": 48,
+              "gps": "O"
+            },
+            {
+              "duration": 90,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 11,
+              "stop3": 50,
+              "gps": "O"
+            },
+            {
+              "duration": 95,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 14,
+              "stop3": 51,
+              "gps": "*"
+            },
+            {
+              "duration": 100,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 16,
+              "stop3": 54,
+              "gps": "*"
+            },
+            {
+              "duration": 105,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 19,
+              "stop3": 56,
+              "gps": "*"
+            },
+            {
+              "duration": 110,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 21,
+              "stop3": 59,
+              "gps": "*"
+            }
+        ]
+    },
+    {
+        "depth" : 28,
+        "dive" : [
+            {
+              "duration": 5,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "B"
+            },
+            {
+              "duration": 10,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "D"
+            },
+            {
+              "duration": 15,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "E"
+            },
+            {
+              "duration": 20,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 1,
+              "gps": "F"
+            },
+            {
+              "duration": 25,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 2,
+              "gps": "G"
+            },
+            {
+              "duration": 30,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 6,
+              "gps": "H"
+            },
+            {
+              "duration": 35,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 12,
+              "gps": "I"
+            },
+            {
+              "duration": 40,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 19,
+              "gps": "J"
+            },
+            {
+              "duration": 45,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 25,
+              "gps": "K"
+            },
+            {
+              "duration": 50,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 32,
+              "gps": "L"
+            },
+            {
+              "duration": 55,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 2,
+              "stop3": 36,
+              "gps": "M"
+            },
+            {
+              "duration": 60,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 4,
+              "stop3": 40,
+              "gps": "M"
+            },
+            {
+              "duration": 65,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 8,
+              "stop3": 43,
+              "gps": "N"
+            },
+            {
+              "duration": 70,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 11,
+              "stop3": 46,
+              "gps": "N"
+            },
+            {
+              "duration": 75,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 14,
+              "stop3": 48,
+              "gps": "O"
+            },
+            {
+              "duration": 80,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 17,
+              "stop3": 50,
+              "gps": "O"
+            },
+            {
+              "duration": 85,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 20,
+              "stop3": 53,
+              "gps": "O"
+            },
+            {
+              "duration": 90,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 23,
+              "stop3": 56,
+              "gps": "P"
+            },
+            {
+              "duration": 95,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 26,
+              "stop3": 58,
+              "gps": "*"
+            },
+            {
+              "duration": 100,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 28,
+              "stop3": 61,
+              "gps": "*"
+            },
+            {
+              "duration": 105,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 30,
+              "stop3": 64,
+              "gps": "*"
+            },
+            {
+              "duration": 110,
+              "stop12": 0,
+              "stop9": 1,
+              "stop6": 32,
+              "stop3": 67,
+              "gps": "*"
+            }
+        ]
+    },
+    {
+        "depth" : 30,
+        "dive" : [
+            {
+              "duration": 5,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "B"
+            },
+            {
+              "duration": 10,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "D"
+            },
+            {
+              "duration": 15,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 1,
+              "gps": "E"
+            },
+            {
+              "duration": 20,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 2,
+              "gps": "F"
+            },
+            {
+              "duration": 25,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 4,
+              "gps": "H"
+            },
+            {
+              "duration": 30,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 9,
+              "gps": "I"
+            },
+            {
+              "duration": 35,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 17,
+              "gps": "J"
+            },
+            {
+              "duration": 40,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 24,
+              "gps": "K"
+            },
+            {
+              "duration": 45,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 1,
+              "stop3": 31,
+              "gps": "L"
+            },
+            {
+              "duration": 50,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 3,
+              "stop3": 36,
+              "gps": "M"
+            },
+            {
+              "duration": 55,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 6,
+              "stop3": 39,
+              "gps": "M"
+            },
+            {
+              "duration": 60,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 10,
+              "stop3": 43,
+              "gps": "N"
+            },
+            {
+              "duration": 65,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 14,
+              "stop3": 46,
+              "gps": "N"
+            },
+            {
+              "duration": 70,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 17,
+              "stop3": 48,
+              "gps": "O"
+            },
+            {
+              "duration": 75,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 20,
+              "stop3": 50,
+              "gps": "*"
+            },
+            {
+              "duration": 80,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 24,
+              "stop3": 54,
+              "gps": "*"
+            },
+            {
+              "duration": 85,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 27,
+              "stop3": 57,
+              "gps": "*"
+            },
+            {
+              "duration": 90,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 30,
+              "stop3": 60,
+              "gps": "*"
+            }
+        ]
+    },
+    {
+        "depth" : 32,
+        "dive" : [
+            {
+              "duration": 5,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "B"
+            },
+            {
+              "duration": 10,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "D"
+            },
+            {
+              "duration": 15,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 1,
+              "gps": "E"
+            },
+            {
+              "duration": 20,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 3,
+              "gps": "G"
+            },
+            {
+              "duration": 25,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 6,
+              "gps": "H"
+            },
+            {
+              "duration": 30,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 14,
+              "gps": "I"
+            },
+            {
+              "duration": 35,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 22,
+              "gps": "K"
+            },
+            {
+              "duration": 40,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 1,
+              "stop3": 29,
+              "gps": "K"
+            },
+            {
+              "duration": 45,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 4,
+              "stop3": 34,
+              "gps": "L"
+            },
+            {
+              "duration": 50,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 7,
+              "stop3": 39,
+              "gps": "M"
+            },
+            {
+              "duration": 55,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 11,
+              "stop3": 43,
+              "gps": "N"
+            },
+            {
+              "duration": 60,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 15,
+              "stop3": 46,
+              "gps": "N"
+            },
+            {
+              "duration": 65,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 19,
+              "stop3": 48,
+              "gps": "O"
+            },
+            {
+              "duration": 70,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 23,
+              "stop3": 50,
+              "gps": "O"
+            },
+            {
+              "duration": 75,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 27,
+              "stop3": 54,
+              "gps": "*"
+            },
+            {
+              "duration": 80,
+              "stop12": 0,
+              "stop9": 2,
+              "stop6": 29,
+              "stop3": 58,
+              "gps": "*"
+            },
+            {
+              "duration": 85,
+              "stop12": 0,
+              "stop9": 4,
+              "stop6": 30,
+              "stop3": 61,
+              "gps": "*"
+            }
+        ]
+    },
+    {
+        "depth" : 35,
+        "dive" : [
+            {
+              "duration": 5,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "C"
+            },
+            {
+              "duration": 10,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "D"
+            },
+            {
+              "duration": 15,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 2,
+              "gps": "F"
+            },
+            {
+              "duration": 20,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 5,
+              "gps": "H"
+            },
+            {
+              "duration": 25,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 11,
+              "gps": "I"
+            },
+            {
+              "duration": 30,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 1,
+              "stop3": 20,
+              "gps": "J"
+            },
+            {
+              "duration": 35,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 2,
+              "stop3": 27,
+              "gps": "K"
+            },
+            {
+              "duration": 40,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 5,
+              "stop3": 34,
+              "gps": "L"
+            },
+            {
+              "duration": 45,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 9,
+              "stop3": 39,
+              "gps": "M"
+            },
+            {
+              "duration": 50,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 14,
+              "stop3": 43,
+              "gps": "N"
+            },
+            {
+              "duration": 55,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 18,
+              "stop3": 47,
+              "gps": "N"
+            },
+            {
+              "duration": 60,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 22,
+              "stop3": 50,
+              "gps": "O"
+            },
+            {
+              "duration": 65,
+              "stop12": 0,
+              "stop9": 2,
+              "stop6": 26,
+              "stop3": 52,
+              "gps": "*"
+            },
+            {
+              "duration": 70,
+              "stop12": 0,
+              "stop9": 4,
+              "stop6": 28,
+              "stop3": 57,
+              "gps": "*"
+            }
+        ]
+    },
+    {
+        "depth" : 38,
+        "dive" : [
+            {
+              "duration": 5,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "C"
+            },
+            {
+              "duration": 10,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 1,
+              "gps": "E"
+            },
+            {
+              "duration": 15,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 4,
+              "gps": "F"
+            },
+            {
+              "duration": 20,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 8,
+              "gps": "H"
+            },
+            {
+              "duration": 25,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 1,
+              "stop3": 16,
+              "gps": "J"
+            },
+            {
+              "duration": 30,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 3,
+              "stop3": 24,
+              "gps": "K"
+            },
+            {
+              "duration": 35,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 5,
+              "stop3": 33,
+              "gps": "L"
+            },
+            {
+              "duration": 40,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 10,
+              "stop3": 38,
+              "gps": "M"
+            },
+            {
+              "duration": 45,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 15,
+              "stop3": 43,
+              "gps": "N"
+            },
+            {
+              "duration": 50,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 20,
+              "stop3": 47,
+              "gps": "N"
+            },
+            {
+              "duration": 55,
+              "stop12": 0,
+              "stop9": 2,
+              "stop6": 23,
+              "stop3": 50,
+              "gps": "O"
+            },
+            {
+              "duration": 60,
+              "stop12": 0,
+              "stop9": 5,
+              "stop6": 27,
+              "stop3": 53,
+              "gps": "P"
+            },
+            {
+              "duration": 65,
+              "stop12": 0,
+              "stop9": 8,
+              "stop6": 29,
+              "stop3": 58,
+              "gps": "*"
+            },
+            {
+              "duration": 70,
+              "stop12": 0,
+              "stop9": 11,
+              "stop6": 31,
+              "stop3": 62,
+              "gps": "*"
+            },
+            {
+              "duration": 75,
+              "stop12": 0,
+              "stop9": 14,
+              "stop6": 33,
+              "stop3": 66,
+              "gps": "*"
+            },
+            {
+              "duration": 80,
+              "stop12": 0,
+              "stop9": 17,
+              "stop6": 35,
+              "stop3": 71,
+              "gps": "*"
+            }
+        ]
+    },
+    {
+        "depth" : 40,
+        "dive" : [
+            {
+              "duration": 5,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "C"
+            },
+            {
+              "duration": 10,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 2,
+              "gps": "E"
+            },
+            {
+              "duration": 15,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 4,
+              "gps": "G"
+            },
+            {
+              "duration": 20,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 1,
+              "stop3": 9,
+              "gps": "H"
+            },
+            {
+              "duration": 25,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 2,
+              "stop3": 19,
+              "gps": "J"
+            },
+            {
+              "duration": 30,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 4,
+              "stop3": 28,
+              "gps": "K"
+            },
+            {
+              "duration": 35,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 8,
+              "stop3": 35,
+              "gps": "L"
+            },
+            {
+              "duration": 40,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 13,
+              "stop3": 40,
+              "gps": "M"
+            },
+            {
+              "duration": 45,
+              "stop12": 0,
+              "stop9": 1,
+              "stop6": 18,
+              "stop3": 45,
+              "gps": "N"
+            },
+            {
+              "duration": 50,
+              "stop12": 0,
+              "stop9": 2,
+              "stop6": 23,
+              "stop3": 48,
+              "gps": "O"
+            },
+            {
+              "duration": 55,
+              "stop12": 0,
+              "stop9": 5,
+              "stop6": 26,
+              "stop3": 52,
+              "gps": "O"
+            },
+            {
+              "duration": 60,
+              "stop12": 0,
+              "stop9": 8,
+              "stop6": 29,
+              "stop3": 57,
+              "gps": "P"
+            },
+            {
+              "duration": 65,
+              "stop12": 0,
+              "stop9": 12,
+              "stop6": 31,
+              "stop3": 61,
+              "gps": "*"
+            },
+            {
+              "duration": 70,
+              "stop12": 0,
+              "stop9": 15,
+              "stop6": 33,
+              "stop3": 66,
+              "gps": "*"
+            },
+            {
+              "duration": 75,
+              "stop12": 0,
+              "stop9": 18,
+              "stop6": 35,
+              "stop3": 71,
+              "gps": "*"
+            },
+            {
+              "duration": 80,
+              "stop12": 1,
+              "stop9": 21,
+              "stop6": 37,
+              "stop3": 75,
+              "gps": "*"
+            },
+            {
+              "duration": 85,
+              "stop12": 3,
+              "stop9": 23,
+              "stop6": 38,
+              "stop3": 82,
+              "gps": "*"
+            },
+            {
+              "duration": 90,
+              "stop12": 5,
+              "stop9": 24,
+              "stop6": 39,
+              "stop3": 88,
+              "gps": "*"
+            }
+        ]
+    },
+    {
+        "depth" : 42,
+        "dive" : [
+            {
+              "duration": 5,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "C"
+            },
+            {
+              "duration": 10,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 2,
+              "gps": "E"
+            },
+            {
+              "duration": 15,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 5,
+              "gps": "G"
+            },
+            {
+              "duration": 20,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 1,
+              "stop3": 12,
+              "gps": "I"
+            },
+            {
+              "duration": 25,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 3,
+              "stop3": 22,
+              "gps": "J"
+            },
+            {
+              "duration": 30,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 6,
+              "stop3": 31,
+              "gps": "L"
+            },
+            {
+              "duration": 35,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 11,
+              "stop3": 37,
+              "gps": "M"
+            },
+            {
+              "duration": 40,
+              "stop12": 0,
+              "stop9": 1,
+              "stop6": 16,
+              "stop3": 43,
+              "gps": "N"
+            },
+            {
+              "duration": 45,
+              "stop12": 0,
+              "stop9": 3,
+              "stop6": 21,
+              "stop3": 47,
+              "gps": "*"
+            },
+            {
+              "duration": 50,
+              "stop12": 0,
+              "stop9": 6,
+              "stop6": 24,
+              "stop3": 50,
+              "gps": "*"
+            },
+            {
+              "duration": 55,
+              "stop12": 0,
+              "stop9": 8,
+              "stop6": 29,
+              "stop3": 55,
+              "gps": "*"
+            },
+            {
+              "duration": 60,
+              "stop12": 0,
+              "stop9": 13,
+              "stop6": 30,
+              "stop3": 60,
+              "gps": "*"
+            }
+        ]
+    },
+    {
+        "depth" : 45,
+        "dive" : [
+            {
+              "duration": 5,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "C"
+            },
+            {
+              "duration": 10,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 3,
+              "gps": "F"
+            },
+            {
+              "duration": 15,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 1,
+              "stop3": 6,
+              "gps": "H"
+            },
+            {
+              "duration": 20,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 3,
+              "stop3": 15,
+              "gps": "I"
+            },
+            {
+              "duration": 25,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 5,
+              "stop3": 25,
+              "gps": "K"
+            },
+            {
+              "duration": 30,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 9,
+              "stop3": 35,
+              "gps": "L"
+            },
+            {
+              "duration": 35,
+              "stop12": 0,
+              "stop9": 1,
+              "stop6": 15,
+              "stop3": 40,
+              "gps": "M"
+            },
+            {
+              "duration": 40,
+              "stop12": 0,
+              "stop9": 3,
+              "stop6": 20,
+              "stop3": 46,
+              "gps": "N"
+            },
+            {
+              "duration": 45,
+              "stop12": 0,
+              "stop9": 6,
+              "stop6": 24,
+              "stop3": 50,
+              "gps": "*"
+            },
+            {
+              "duration": 50,
+              "stop12": 0,
+              "stop9": 10,
+              "stop6": 28,
+              "stop3": 54,
+              "gps": "*"
+            },
+            {
+              "duration": 55,
+              "stop12": 0,
+              "stop9": 14,
+              "stop6": 30,
+              "stop3": 60,
+              "gps": "*"
+            },
+            {
+              "duration": 60,
+              "stop12": 1,
+              "stop9": 18,
+              "stop6": 32,
+              "stop3": 65,
+              "gps": "*"
+            }
+        ]
+    },
+    {
+        "depth" : 48,
+        "dive" : [
+            {
+              "duration": 5,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 0,
+              "gps": "D"
+            },
+            {
+              "duration": 10,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 4,
+              "gps": "F"
+            },
+            {
+              "duration": 15,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 2,
+              "stop3": 7,
+              "gps": "H"
+            },
+            {
+              "duration": 20,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 4,
+              "stop3": 19,
+              "gps": "J"
+            },
+            {
+              "duration": 25,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 7,
+              "stop3": 30,
+              "gps": "K"
+            },
+            {
+              "duration": 30,
+              "stop12": 0,
+              "stop9": 1,
+              "stop6": 12,
+              "stop3": 37,
+              "gps": "M"
+            },
+            {
+              "duration": 35,
+              "stop12": 0,
+              "stop9": 3,
+              "stop6": 18,
+              "stop3": 44,
+              "gps": "N"
+            },
+            {
+              "duration": 40,
+              "stop12": 0,
+              "stop9": 6,
+              "stop6": 23,
+              "stop3": 48,
+              "gps": "O"
+            },
+            {
+              "duration": 45,
+              "stop12": 0,
+              "stop9": 10,
+              "stop6": 27,
+              "stop3": 53,
+              "gps": "*"
+            },
+            {
+              "duration": 50,
+              "stop12": 1,
+              "stop9": 14,
+              "stop6": 30,
+              "stop3": 59,
+              "gps": "*"
+            },
+            {
+              "duration": 55,
+              "stop12": 2,
+              "stop9": 18,
+              "stop6": 32,
+              "stop3": 64,
+              "gps": "*"
+            },
+            {
+              "duration": 60,
+              "stop12": 5,
+              "stop9": 19,
+              "stop6": 36,
+              "stop3": 70,
+              "gps": "*"
+            }
+        ]
+    },
+    {
+        "depth" : 50,
+        "dive" : [
+            {
+              "duration": 5,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 1,
+              "gps": "D"
+            },
+            {
+              "duration": 10,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 4,
+              "gps": "F"
+            },
+            {
+              "duration": 15,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 2,
+              "stop3": 9,
+              "gps": "H"
+            },
+            {
+              "duration": 20,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 4,
+              "stop3": 22,
+              "gps": "J"
+            },
+            {
+              "duration": 25,
+              "stop12": 0,
+              "stop9": 1,
+              "stop6": 8,
+              "stop3": 32,
+              "gps": "L"
+            },
+            {
+              "duration": 30,
+              "stop12": 0,
+              "stop9": 2,
+              "stop6": 14,
+              "stop3": 39,
+              "gps": "M"
+            },
+            {
+              "duration": 35,
+              "stop12": 0,
+              "stop9": 5,
+              "stop6": 20,
+              "stop3": 45,
+              "gps": "N"
+            },
+            {
+              "duration": 40,
+              "stop12": 0,
+              "stop9": 9,
+              "stop6": 24,
+              "stop3": 50,
+              "gps": "O"
+            },
+            {
+              "duration": 45,
+              "stop12": 1,
+              "stop9": 12,
+              "stop6": 29,
+              "stop3": 55,
+              "gps": "*"
+            },
+            {
+              "duration": 50,
+              "stop12": 2,
+              "stop9": 17,
+              "stop6": 30,
+              "stop3": 62,
+              "gps": "*"
+            },
+            {
+              "duration": 55,
+              "stop12": 5,
+              "stop9": 19,
+              "stop6": 34,
+              "stop3": 67,
+              "gps": "*"
+            },
+            {
+              "duration": 60,
+              "stop12": 8,
+              "stop9": 21,
+              "stop6": 37,
+              "stop3": 74,
+              "gps": "*"
+            }
+        ]
+    },
+    {
+        "depth" : 52,
+        "dive" : [
+            {
+              "duration": 5,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 1,
+              "gps": "D"
+            },
+            {
+              "duration": 10,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 1,
+              "stop3": 4,
+              "gps": "F"
+            },
+            {
+              "duration": 15,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 3,
+              "stop3": 10,
+              "gps": "I"
+            },
+            {
+              "duration": 20,
+              "stop12": 0,
+              "stop9": 1,
+              "stop6": 5,
+              "stop3": 23,
+              "gps": "K"
+            },
+            {
+              "duration": 25,
+              "stop12": 0,
+              "stop9": 2,
+              "stop6": 9,
+              "stop3": 34,
+              "gps": "L"
+            },
+            {
+              "duration": 30,
+              "stop12": 0,
+              "stop9": 4,
+              "stop6": 15,
+              "stop3": 41,
+              "gps": "M"
+            },
+            {
+              "duration": 35,
+              "stop12": 0,
+              "stop9": 6,
+              "stop6": 22,
+              "stop3": 47,
+              "gps": "O"
+            },
+            {
+              "duration": 40,
+              "stop12": 1,
+              "stop9": 10,
+              "stop6": 26,
+              "stop3": 52,
+              "gps": "O"
+            },
+            {
+              "duration": 45,
+              "stop12": 2,
+              "stop9": 15,
+              "stop6": 29,
+              "stop3": 59,
+              "gps": "*"
+            },
+            {
+              "duration": 50,
+              "stop12": 5,
+              "stop9": 17,
+              "stop6": 32,
+              "stop3": 64,
+              "gps": "*"
+            },
+            {
+              "duration": 55,
+              "stop12": 8,
+              "stop9": 19,
+              "stop6": 36,
+              "stop3": 71,
+              "gps": "*"
+            },
+            {
+              "duration": 60,
+              "stop12": 11,
+              "stop9": 22,
+              "stop6": 38,
+              "stop3": 78,
+              "gps": "*"
+            }
+        ]
+    },
+    {
+        "depth" : 55,
+        "dive" : [
+            {
+              "duration": 5,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 1,
+              "gps": "D"
+            },
+            {
+              "duration": 10,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 1,
+              "stop3": 5,
+              "gps": "G"
+            },
+            {
+              "duration": 15,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 4,
+              "stop3": 13,
+              "gps": "I"
+            },
+            {
+              "duration": 20,
+              "stop12": 0,
+              "stop9": 1,
+              "stop6": 6,
+              "stop3": 27,
+              "gps": "K"
+            },
+            {
+              "duration": 25,
+              "stop12": 0,
+              "stop9": 3,
+              "stop6": 11,
+              "stop3": 37,
+              "gps": "M"
+            },
+            {
+              "duration": 30,
+              "stop12": 0,
+              "stop9": 6,
+              "stop6": 18,
+              "stop3": 44,
+              "gps": "N"
+            },
+            {
+              "duration": 35,
+              "stop12": 1,
+              "stop9": 9,
+              "stop6": 23,
+              "stop3": 50,
+              "gps": "O"
+            },
+            {
+              "duration": 40,
+              "stop12": 3,
+              "stop9": 12,
+              "stop6": 29,
+              "stop3": 55,
+              "gps": "P"
+            },
+            {
+              "duration": 45,
+              "stop12": 5,
+              "stop9": 17,
+              "stop6": 31,
+              "stop3": 62,
+              "gps": "*"
+            },
+            {
+              "duration": 50,
+              "stop12": 8,
+              "stop9": 19,
+              "stop6": 35,
+              "stop3": 69,
+              "gps": "*"
+            },
+            {
+              "duration": 55,
+              "stop12": 12,
+              "stop9": 22,
+              "stop6": 37,
+              "stop3": 76,
+              "gps": "*"
+            }
+        ]
+    },
+    {
+        "depth" : 58,
+        "dive" : [
+            {
+              "duration": 5,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 2,
+              "gps": "D"
+            },
+            {
+              "duration": 10,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 2,
+              "stop3": 5,
+              "gps": "G"
+            },
+            {
+              "duration": 15,
+              "stop12": 0,
+              "stop9": 1,
+              "stop6": 4,
+              "stop3": 16,
+              "gps": "J"
+            },
+            {
+              "duration": 20,
+              "stop12": 0,
+              "stop9": 2,
+              "stop6": 7,
+              "stop3": 30,
+              "gps": "K"
+            },
+            {
+              "duration": 25,
+              "stop12": 0,
+              "stop9": 4,
+              "stop6": 13,
+              "stop3": 40,
+              "gps": "M"
+            },
+            {
+              "duration": 30,
+              "stop12": 1,
+              "stop9": 7,
+              "stop6": 21,
+              "stop3": 46,
+              "gps": "N"
+            },
+            {
+              "duration": 35,
+              "stop12": 2,
+              "stop9": 11,
+              "stop6": 26,
+              "stop3": 52,
+              "gps": "O"
+            },
+            {
+              "duration": 40,
+              "stop12": 5,
+              "stop9": 15,
+              "stop6": 30,
+              "stop3": 59,
+              "gps": "P"
+            },
+            {
+              "duration": 45,
+              "stop12": 8,
+              "stop9": 18,
+              "stop6": 33,
+              "stop3": 66,
+              "gps": "*"
+            }
+        ]
+    },
+    {
+        "depth" : 60,
+        "dive" : [
+            {
+              "duration": 5,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 2,
+              "gps": "D"
+            },
+            {
+              "duration": 10,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 2,
+              "stop3": 6,
+              "gps": "G"
+            },
+            {
+              "duration": 15,
+              "stop12": 0,
+              "stop9": 1,
+              "stop6": 4,
+              "stop3": 19,
+              "gps": "J"
+            },
+            {
+              "duration": 20,
+              "stop12": 0,
+              "stop9": 3,
+              "stop6": 8,
+              "stop3": 32,
+              "gps": "L"
+            },
+            {
+              "duration": 25,
+              "stop12": 0,
+              "stop9": 5,
+              "stop6": 15,
+              "stop3": 41,
+              "gps": "M"
+            },
+            {
+              "duration": 30,
+              "stop12": 1,
+              "stop9": 8,
+              "stop6": 22,
+              "stop3": 48,
+              "gps": "O"
+            },
+            {
+              "duration": 35,
+              "stop12": 4,
+              "stop9": 11,
+              "stop6": 28,
+              "stop3": 54,
+              "gps": "P"
+            },
+            {
+              "duration": 40,
+              "stop12": 6,
+              "stop9": 17,
+              "stop6": 30,
+              "stop3": 62,
+              "gps": "P"
+            }
+        ]
+    },
+    {
+        "depth" : 62,
+        "dive" : [
+            {
+              "duration": 5,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 2,
+              "gps": "*"
+            },
+            {
+              "duration": 10,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 2,
+              "stop3": 7,
+              "gps": "*"
+            },
+            {
+              "duration": 15,
+              "stop12": 0,
+              "stop9": 1,
+              "stop6": 5,
+              "stop3": 21,
+              "gps": "*"
+            }
+        ]
+    },
+    {
+        "depth" : 65,
+        "dive" : [
+            {
+              "duration": 5,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 0,
+              "stop3": 3,
+              "gps": "*"
+            },
+            {
+              "duration": 10,
+              "stop12": 0,
+              "stop9": 0,
+              "stop6": 3,
+              "stop3": 8,
+              "gps": "*"
+            },
+            {
+              "duration": 15,
+              "stop12": 0,
+              "stop9": 2,
+              "stop6": 5,
+              "stop3": 24,
+              "gps": "*"
+            }
+        ]
+    }
+]
