@@ -19,7 +19,7 @@ let plannedDepth,
 /********************** UTILS *************************/
 
 function isEmpty(obj) {
-    for(var key in obj) {
+    for(var key in obj) { 
         if(obj.hasOwnProperty(key))
             return false;
     }
