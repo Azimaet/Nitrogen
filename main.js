@@ -1,6 +1,6 @@
 
 
-plannedDepth = 55;
+plannedDepth = 26;
 explorationTime = 50;
 startTime = 11.00;
 

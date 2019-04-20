@@ -7,8 +7,13 @@ var Dive = function(plannedDepth, explorationTime, startTime = null) {
 
     this._startTime = startTime;
 
-    this.ascentTime = null;
+    this.matchedTable = matchDepthTable(this._plannedDepth, tables);
 
-    this.totalTime = null;
+    this.matchedTime = matchExplorationTime(this._explorationTime, this.matchedTable);
 
+    this.ascentTable = planAscent(this.matchedTime, this._plannedDepth);
+    
+    this.ascentTime = calcAscend(this.ascentTable);
+    
+    this.totalTime = calcTotalTime(this.ascentTime, this._explorationTime);
 }

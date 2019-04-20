@@ -2,40 +2,11 @@
 
 //http://www.plongee-plaisir.com/fr/pdf/MN90_Mode_Emploi.pdf
 //https://www.youtube.com/watch?v=S9F1De6Lesw
+
 const ASCENDING_RATE_ABOVE_20M = 15; // Vitesse de remontée plongée peu profonde préconisée par MN90.
 const ASCENDING_RATE_BELOW_20M = 10; // Vitesse de remontée plongée profonde préconisée par MN90.
 const ASCENDING_RATE_IN_10M = 6; // Vitesse de remontée dans les 10 derniers mètres.
 const SAFETY_STOP_LADDER = 3; // Echelle entre les paliers
-
-let plannedDepth,
-    startTime,
-    explorationTime,
-    ascendingTime,
-    endTime,
-    saturationGroup,
-    matchedTable;
-
-/******************************************************/
-/********************** UTILS *************************/
-
-function isEmpty(obj) {
-    for(var key in obj) { 
-        if(obj.hasOwnProperty(key))
-            return false;
-    }
-    return true;
-}
-
-function filteredKeys(obj, filter) {
-    let key, keys = []
-    for (key in obj)
-      if (obj.hasOwnProperty(key) && filter.test(key))
-        keys.push(key)
-    return keys
-}
-
-/*******************************************************/
-/********************** METIER *************************/
 
 function matchDepthTable(plannedDepth, tables) {
     var i = 0;
@@ -125,30 +96,3 @@ function calcTotalTime(ascentTime, explorationTime) {
     var totalTime = ascentTime + explorationTime;
     return totalTime;
 }
-
-/***********************************************/
-/***********************************************/
-
-plannedDepth = 55;
-explorationTime = 50;
-startTime = 11.00;
-
-matchedTable = matchDepthTable(plannedDepth, tables);
-matchedTime = matchExplorationTime(explorationTime, matchedTable);
-
-var ascentTable = planAscent(matchedTime, plannedDepth);
-var ascentTime = calcAscend(ascentTable);
-var totalTime = calcTotalTime(ascentTime, explorationTime);
-console.log(matchedTable);
-console.log(matchedTime);
-console.log(ascentTable);
-console.log(ascentTime);
-console.log(totalTime);
-
-/* TO DO : formater un bel object mixant matchedTime et ascentTable avec tout dedans */
-var _userDive = new Dive(
-    plannedDepth, 
-    explorationTime, 
-    startTime);
-
-console.log(_userDive);
