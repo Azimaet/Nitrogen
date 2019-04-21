@@ -1,12 +1,8 @@
-
-
-//http://www.plongee-plaisir.com/fr/pdf/MN90_Mode_Emploi.pdf
-//https://www.youtube.com/watch?v=S9F1De6Lesw
-
 const ASCENDING_RATE_ABOVE_20M = 15; // Vitesse de remontée plongée peu profonde préconisée par MN90.
 const ASCENDING_RATE_BELOW_20M = 10; // Vitesse de remontée plongée profonde préconisée par MN90.
 const ASCENDING_RATE_IN_10M = 6; // Vitesse de remontée dans les 10 derniers mètres.
 const SAFETY_STOP_LADDER = 3; // Echelle entre les paliers
+
 
 function matchDepthTable(plannedDepth, tables) {
     var i = 0;
